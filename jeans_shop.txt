@@ -1,0 +1,7 @@
+Sex: male, female
+Size: 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56
+Price: 0-100, 100-300, 300-800, 800-1300, 1300-2000, >2000
+Style: business, casual, sports
+Fade: heavy_fade, light_fade, no_fade
+Stretch: non_strechable, strechable
+Brand: Levis, Diesel, Wrangler, Superdry, Element, Guess, 11_Degrees, Hype, Herschel, LROSD, Square_One
